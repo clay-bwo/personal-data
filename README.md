@@ -13,3 +13,4 @@ The books I try to stick with in my life are purely philosophy, I'll list them i
 4. Nietzsche (Genealogy of Morals, Beyond Good & Evil, Will to Power)
 5. Spinoza (Ethics)
 6. Marx (Grundrisse)
+7. Proclus (Elements of Theology)
