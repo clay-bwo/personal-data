@@ -20,4 +20,4 @@ The books I try to stick with in my life are purely philosophy, I'll list them i
 coding concepts i like
 1. code maintenance-machines break down over time and code is no different!
 2. speed and performance are necessary to any project
-3. features are great, they give apps more reality
+3. more features are great, they give apps more reality
