@@ -22,3 +22,4 @@ coding concepts i like
 1. code maintenance-machines break down over time and code is no different!
 2. speed and performance are necessary to any project -- may require lower level understanding
 3. more features are always a way to improve past a fundamental base, they give apps more reality
+4. inadequate coding practices must be destroyed.
