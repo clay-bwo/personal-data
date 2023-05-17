@@ -8,15 +8,15 @@ I like free open source software, as such I use Linux as my OS on my machine, co
 
 The books I try to stick with in my life are purely philosophy, I'll list them in order of familiarity. I don't read philosophy to be above others as I have noticed some technocrats do, I'm completely indifferent to power :) i do it simply because i love it, i love the craft of writing, the concepts explored, and it gives me a whooole lot to chew on mentally so i can utilize boredom to its fullest.
 
-Kant (Critique of Pure Reason)
-Spinoza (Ethics)
-Plato (Theaetetus, Republic, Parmenides, Sophist)
-Deleuze & Guattari (Anti-Oedipus)
-Deleuze & Guattari (What is Philosophy?)
-Deleuze (Difference & Repetition)
-Nietzsche (Genealogy of Morals, Beyond Good & Evil, Will to Power)
-Marx (Grundrisse)
-Proclus (Elements of Theology)
+* Kant (Critique of Pure Reason)
+* Spinoza (Ethics)
+* Plato (Theaetetus, Republic, Parmenides, Sophist)
+* Deleuze & Guattari (Anti-Oedipus)
+* Deleuze & Guattari (What is Philosophy?)
+* Deleuze (Difference & Repetition)
+* Nietzsche (Genealogy of Morals, Beyond Good & Evil, Will to Power)
+* Marx (Grundrisse)
+* Proclus (Elements of Theology)
 
 coding concepts i like
 1. code maintenance-machines break down over time and code is no different!
