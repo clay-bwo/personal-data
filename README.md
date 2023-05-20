@@ -13,8 +13,9 @@ The books I try to stick with in my life are purely philosophy, I'll list them i
 * Deleuze & Guattari (What is Philosophy?)
 * Deleuze (Difference & Repetition)
 * Nietzsche (Will to Power, Genealogy of Morals, Beyond Good & Evil)
-* Marx (Grundrisse, Capital Vol 1)
 * Proclus (Elements of Theology)
+* Marx (Grundrisse, Capital Vol 1)
+
 
 coding concepts i like
 1. code maintenance-machines break down over time and code is no different!
