@@ -5,7 +5,7 @@ I like free open source software, as such I use Linux as my OS on my machine, po
 
 The books I try to stick with in my life are purely philosophy, I'll list them in order of familiarity. 
 
-* Plato (Theaetetus, Republic, Parmenides, Sophist)
+* Plato (Theaetetus, Timaeus, Parmenides, Sophist)
 * Kant (Critique of Pure Reason)
 * Spinoza (Ethics)
 * Ulysse Carrière (Technically Man Dwells)
