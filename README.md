@@ -16,7 +16,7 @@ The books I try to stick with in my life are purely philosophy, I'll list them i
 * Proclus (Elements of Theology)
 * Marx (Grundrisse, Capital Vol 1)
 
-at this instant, i'm into shorter essays and rereading very selective texts. exploring other areas of philosophy can be tempting, but i'm restraining myself intentionally in order to perfect understanding of the texts to the level they deserve.
+THE 5,000 YEAR PLAN LETS GO
 
 coding concepts i like
 1. code maintenance-machines break down over time and code is no different!
